@@ -8,5 +8,3 @@
 Administrator should upload research progress through excel sheet and stakeholders can download the research reports in PDF format.
 
 ---
-
-[Project Link](https://pariveshsrivastava.github.io/University-Research-Activity-Monitoring/)
